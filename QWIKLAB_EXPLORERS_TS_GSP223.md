@@ -23,6 +23,8 @@ sed -i -e "s/placeholder/${BUCKET}/g" ./data.csv
 gsutil cp ./data.csv gs://${BUCKET}
 ```
 
+## Follow next steps from video.
+
 
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
